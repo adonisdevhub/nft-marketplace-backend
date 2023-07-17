@@ -1,0 +1,42 @@
+{
+  "name": "Ape World #1",
+  "image": "/17.png",
+  "attributes": [
+    {
+      "trait_type": "backgrounds",
+      "value": "lime"
+    },
+    {
+      "trait_type": "swords",
+      "value": "devil's axe"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Gold lava"
+    },
+    {
+      "trait_type": "chain",
+      "value": "tribal chain"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "EVIL EYES"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "mouths",
+      "value": "smoking cigar"
+    },
+    {
+      "trait_type": "hats",
+      "value": "nothing"
+    }
+  ]
+}
